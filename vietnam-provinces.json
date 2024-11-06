@@ -1,0 +1,152 @@
+{
+  "HN": {
+    "name": "Hanoi",
+    "capital": "Hanoi",
+    "lat": "21.0285",
+    "long": "105.8542"
+  },
+  "HCM": {
+    "name": "Ho Chi Minh City",
+    "capital": "Ho Chi Minh City",
+    "lat": "10.8231",
+    "long": "106.6297"
+  },
+  "HP": {
+    "name": "Hai Phong",
+    "capital": "Hai Phong",
+    "lat": "20.8449",
+    "long": "106.6881"
+  },
+  "DN": {
+    "name": "Da Nang",
+    "capital": "Da Nang",
+    "lat": "16.0544",
+    "long": "108.2022"
+  },
+  "AG": {
+    "name": "An Giang",
+    "capital": "Long Xuyen",
+    "lat": "10.3864",
+    "long": "105.4355"
+  },
+  "BD": {
+    "name": "Binh Duong",
+    "capital": "Thu Dau Mot",
+    "lat": "10.9804",
+    "long": "106.6519"
+  },
+  "BN": {
+    "name": "Bac Ninh",
+    "capital": "Bac Ninh",
+    "lat": "21.1861",
+    "long": "106.0763"
+  },
+  "BTH": {
+    "name": "Binh Thuan",
+    "capital": "Phan Thiet",
+    "lat": "10.9333",
+    "long": "108.1000"
+  },
+  "BG": {
+    "name": "Bac Giang",
+    "capital": "Bac Giang",
+    "lat": "21.2717",
+    "long": "106.1947"
+  },
+  "BK": {
+    "name": "Bac Kan",
+    "capital": "Bac Kan",
+    "lat": "22.1477",
+    "long": "105.8347"
+  },
+  "BL": {
+    "name": "Bac Lieu",
+    "capital": "Bac Lieu",
+    "lat": "9.2940",
+    "long": "105.7216"
+  },
+  "BR": {
+    "name": "Ben Tre",
+    "capital": "Ben Tre",
+    "lat": "10.2433",
+    "long": "106.3752"
+  },
+  "CM": {
+    "name": "Ca Mau",
+    "capital": "Ca Mau",
+    "lat": "9.1769",
+    "long": "105.1524"
+  },
+  "CB": {
+    "name": "Cao Bang",
+    "capital": "Cao Bang",
+    "lat": "22.6657",
+    "long": "106.2522"
+  },
+  "DL": {
+    "name": "Dak Lak",
+    "capital": "Buon Ma Thuot",
+    "lat": "12.6667",
+    "long": "108.0500"
+  },
+  "DBP": {
+    "name": "Dien Bien Phu",
+    "capital": "Dien Bien Phu",
+    "lat": "21.3833",
+    "long": "103.0167"
+  },
+  "DNA": {
+    "name": "Dong Nai",
+    "capital": "Bien Hoa",
+    "lat": "10.9474",
+    "long": "106.8230"
+  },
+  "DT": {
+    "name": "Dong Thap",
+    "capital": "Cao Lanh",
+    "lat": "10.4667",
+    "long": "105.6333"
+  },
+  "GL": {
+    "name": "Gia Lai",
+    "capital": "Pleiku",
+    "lat": "13.9833",
+    "long": "108.0000"
+  },
+  "HG": {
+    "name": "Ha Giang",
+    "capital": "Ha Giang",
+    "lat": "22.8333",
+    "long": "104.9833"
+  },
+  "HD": {
+    "name": "Hai Duong",
+    "capital": "Hai Duong",
+    "lat": "20.9400",
+    "long": "106.3300"
+  },
+  "HNA": {
+    "name": "Ha Nam",
+    "capital": "Phu Ly",
+    "lat": "20.5833",
+    "long": "105.9167"
+  },
+  "HTH": {
+    "name": "Ha Tinh",
+    "capital": "Ha Tinh",
+    "lat": "18.3333",
+    "long": "105.9000"
+  },
+  "HB": {
+    "name": "Hoa Binh",
+    "capital": "Hoa Binh",
+    "lat": "20.8133",
+    "long": "105.3383"
+  },
+  "HY": {
+    "name": "Hung Yen",
+    "capital": "Hung Yen",
+    "lat": "20.6500",
+    "long": "106.0500"
+  }
+}
